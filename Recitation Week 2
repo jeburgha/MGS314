@@ -1,0 +1,32 @@
+print(6+2)
+print(6+10*10+6)
+print((6+10)*(10+6))
+print(7+10-(2/2))
+x=10
+print(x)
+y=100.05
+print(y)
+z=True
+print(z)
+a='This is a string'
+print(a)
+b=[1,2,3,4,5]
+print(b)
+c=['H','E','L','L','O']
+print(c)
+print(y-x)
+x=100
+print(type(x))
+x=100.9
+print(type(x))
+print(type(a))
+print("qwerty")
+marks_obtained=100
+total_marks=200
+percentage=(marks_obtained/total_marks*100)
+print(percentage)
+x='I am a UB Student'
+print(x[0])
+print(x[5])
+print(x[-1])
+print(x[0:4])
